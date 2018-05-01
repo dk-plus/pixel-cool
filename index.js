@@ -1,3 +1,6 @@
+/**
+ * author: dkplus <dkplus@qq.com>
+ */
 console.log('%cpixel\n-cool',
 `
 display: inline-block;
